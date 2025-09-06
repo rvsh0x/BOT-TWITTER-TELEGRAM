@@ -1,6 +1,6 @@
 # 🤖 Bot de Publication Multi-Plateforme
 
-Un bot automatisé qui publie sur Twitter et Telegram de manière automatisée.
+Un bot automatisé qui publie sur Twitter et Telegram.
 
 ## 📋 Description du Projet
 
