@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "parts": [
+      "Le soleil se lève chaque matin avec une promesse de nouvelles possibilités. Chaque jour est une chance de recommencer, d'apprendre quelque chose de nouveau, et de grandir en tant que personne."
+    ],
+    "source": "Réflexion personnelle"
+  },
+  {
+    "id": 2,
+    "parts": [
+      "La technologie a transformé notre façon de communiquer, mais rien ne remplace une conversation face à face avec un sourire chaleureux et un regard sincère."
+    ],
+    "source": "Pensée moderne"
+  },
+  {
+    "id": 3,
+    "parts": [
+      "Les voyages ouvrent l'esprit et enrichissent l'âme. Chaque nouvelle destination nous apprend quelque chose sur nous-mêmes et sur le monde qui nous entoure."
+    ],
+    "source": "Inspiration voyage"
+  },
+  {
+    "id": 4,
+    "parts": [
+      "La musique a le pouvoir de transcender les barrières linguistiques et culturelles. Une mélodie peut toucher le cœur de n'importe qui, peu importe d'où il vient."
+    ],
+    "source": "Réflexion musicale"
+  },
+  {
+    "id": 5,
+    "parts": [
+      "L'apprentissage est un processus qui dure toute la vie. Chaque expérience, qu'elle soit positive ou négative, nous enseigne quelque chose d'important."
+    ],
+    "source": "Sagesse éducative"
+  },
+  {
+    "id": 6,
+    "parts": [
+      "La nature nous offre des leçons précieuses sur la patience, la persévérance et la beauté. Observer un arbre grandir nous rappelle que tout prend du temps."
+    ],
+    "source": "Observation naturelle"
+  },
+  {
+    "id": 7,
+    "parts": [
+      "L'amitié est l'un des plus beaux cadeaux de la vie. Un véritable ami est quelqu'un qui vous accepte tel que vous êtes et vous soutient dans les moments difficiles."
+    ],
+    "source": "Réflexion amicale"
+  },
+  {
+    "id": 8,
+    "parts": [
+      "La créativité peut s'exprimer de mille façons différentes : la peinture, l'écriture, la cuisine, le jardinage. L'important est de trouver ce qui vous passionne."
+    ],
+    "source": "Inspiration créative"
+  },
+  {
+    "id": 9,
+    "parts": [
+      "Le silence peut être aussi éloquent que les mots. Parfois, la meilleure réponse est d'écouter attentivement et de laisser l'autre s'exprimer librement."
+    ],
+    "source": "Sagesse communication"
+  },
+  {
+    "id": 10,
+    "parts": [
+      "Chaque échec est une opportunité d'apprendre et de grandir. Les plus grandes réussites naissent souvent des plus grands défis que nous avons surmontés."
+    ],
+    "source": "Motivation personnelle"
+  }
+]
