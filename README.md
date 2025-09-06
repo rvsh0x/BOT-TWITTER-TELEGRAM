@@ -4,7 +4,7 @@ Un bot automatisé qui publie sur Twitter et Telegram de manière automatisée.
 
 ## 📋 Description du Projet
 
-Système de publication automatisé qui diffuse des textes inspirants et motivants sur deux plateformes sociales principales : Twitter et Telegram. Le bot utilise un système de rotation intelligent pour éviter les répétitions et respecter les limites de publication de chaque plateforme.
+Système de publication automatisé qui diffuse des textes sur Twitter et Telegram. Le bot utilise un système de rotation intelligent pour éviter les répétitions et respecter les limites de publication de chaque plateforme.
 
 ### ✨ Fonctionnalités Principales
 
@@ -19,7 +19,7 @@ Système de publication automatisé qui diffuse des textes inspirants et motivan
 ## 🏗️ Architecture du Projet
 
 ```
-fadhail_project/
+bot_project/
 ├── bot_twitter.py          # Bot Twitter principal
 ├── bot_telegram.py         # Bot Telegram principal
 ├── Check.py               # Utilitaire de vérification des longueurs
