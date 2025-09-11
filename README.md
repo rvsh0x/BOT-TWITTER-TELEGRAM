@@ -1,12 +1,12 @@
-# 🤖 Bot de Publication Multi-Plateforme
+# Bot de Publication Multi-Plateforme
 
 Un bot automatisé qui publie sur Twitter et Telegram.
 
-## 📋 Description du Projet
+## Description du Projet
 
 Système de publication automatisé qui diffuse des textes sur Twitter et Telegram. Le bot utilise un système de rotation intelligent pour éviter les répétitions et respecter les limites de publication de chaque plateforme.
 
-### ✨ Fonctionnalités Principales
+### Fonctionnalités Principales
 
 - **Publication automatique** sur Twitter et Telegram
 - **Système de rotation** des contenus pour éviter les répétitions
@@ -16,7 +16,7 @@ Système de publication automatisé qui diffuse des textes sur Twitter et Telegr
 - **Logs détaillés** pour le monitoring
 - **Vérification de longueur** des tweets (limite 280 caractères)
 
-## 🏗️ Architecture du Projet
+## Architecture du Projet
 
 ```
 bot_project/
@@ -32,7 +32,7 @@ bot_project/
 └── venv/                # Environnement virtuel
 ```
 
-## 🚀 Installation
+## Installation
 
 ### Prérequis
 
@@ -74,7 +74,7 @@ bot_project/
    export TELEGRAM_CHAT_ID="votre_chat_id"
    ```
 
-## 📖 Utilisation
+## Utilisation
 
 ### Lancement manuel
 
@@ -109,7 +109,7 @@ Pour automatiser les publications, ajoutez à votre crontab :
 0 9 * * * /chemin/vers/fadhail_project/run_bot.sh
 ```
 
-## 📁 Structure des Fichiers
+## Structure des Fichiers
 
 ### `publications.json`
 Base de données contenant tous les textes à publier :
@@ -146,7 +146,7 @@ Fichier binaire contenant la liste des IDs déjà utilisés pour éviter les ré
 2. Utiliser `Check.py` pour vérifier la longueur des tweets
 3. Le bot sélectionnera automatiquement le prochain contenu
 
-## 📊 Monitoring
+## Monitoring
 
 ### Logs
 Les logs sont sauvegardés dans `run_bot.log` :
@@ -162,7 +162,7 @@ python3 Check.py
 ```
 Cet utilitaire vérifie que tous les tweets respectent la limite de 280 caractères.
 
-## 🛠️ Développement
+## Développement
 
 ### Ajout de Nouvelles Fonctionnalités
 1. Modifier les scripts Python selon vos besoins
@@ -174,7 +174,7 @@ Cet utilitaire vérifie que tous les tweets respectent la limite de 280 caractè
 - Vérifier les variables d'environnement
 - S'assurer que les tokens sont valides
 
-## 📝 Dépendances
+## Dépendances
 
 - **tweepy** : API Twitter
 - **telegram** : API Telegram Bot
@@ -182,7 +182,7 @@ Cet utilitaire vérifie que tous les tweets respectent la limite de 280 caractè
 - **json** : Gestion des données JSON
 - **pickle** : Sérialisation des données
 
-## 🤝 Contribution
+## Contribution
 
 1. Fork le projet
 2. Créer une branche feature (`git checkout -b feature/nouvelle-fonctionnalite`)
@@ -190,11 +190,11 @@ Cet utilitaire vérifie que tous les tweets respectent la limite de 280 caractè
 4. Push vers la branche (`git push origin feature/nouvelle-fonctionnalite`)
 5. Créer une Pull Request
 
-## 📄 Licence
+## Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-## 🆘 Support
+## Support
 
 Pour toute question ou problème :
 1. Consulter les logs dans `run_bot.log`
